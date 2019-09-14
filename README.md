@@ -7,4 +7,5 @@ Játszani itt lehet vele: https://lmark9965.itch.io/pub1
 
 WASD-vel lehet menni.
 
-Feladat: Kiszolgálni a vendégeket akik jönnek. Majd fejleszteni az vendéglátóhelyiséget a nap végén, hogy minél patinánsabb vendégek jöjjenek.
+# Feladat
+Kiszolgálni a vendégeket akik jönnek. Majd fejleszteni az vendéglátóhelyiséget a nap végén, hogy minél patinánsabb vendégek jöjjenek.
